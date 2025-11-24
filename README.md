@@ -57,6 +57,7 @@ Individual icons remain the property of their respective authors, and credit is 
 Usage and License:
 
 The customised icons used in the "Kata Kerja" (Bahasa) / "Verb" (English) section of the application were uniquely generated using GOogle's AI image creation tools. These specific assets are utilised under the terms of service that typically grant a royalty-free right for commercial use. All other graphical assets in the app are courced separately.
+
 ---
 **⚙️ Usage Statement**
 
