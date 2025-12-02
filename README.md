@@ -8,7 +8,7 @@ It supports both **Bahasa Malaysia and English**, allowing users to switch langu
 
 The app is **designed with open-source art and educational principles**, to promote accessible, inclusive, user-friendly and responsive interface that ensures user comfort. The app also remembers language preferences on each launch, offering a smooth and personalized experience ideal for individuals, caregivers, therapists, and educators supporting communication needs.
 
-This AAC app can definitely **serve dual purposes** (therapeutic and educational):
+This AAC app can **serve dual purposes** (therapeutic and educational):
 
 **1. Assistive tool for speech or communication difficulties**  
 - Users who have difficulty speaking or expressing themselves can use icons, text, and voice output to communicate effectively.
@@ -61,7 +61,7 @@ The customised icons used in the "Kata Kerja" (Bahasa) / "Verb" (English) sectio
 ---
 **⚙️ Usage Statement**
 
-All OpenMoji and SVG Repo icons are used or adapted in accordance with their open licences.
+All OpenMoji, SVG Repo and Google's Generative AI model (Gemini) icons are used or adapted in accordance with their open licences.
 They form the visual foundation of this AAC project, representing everyday verbs, nouns, and actions in a clear, accessible format for all users — including children, individuals with speech or language difficulties, and educators.
 
 In addition to these sources, this project includes:
