@@ -1,24 +1,43 @@
-# Accessible and Augmentative Communication (AAC)
+# Speech AAC 
 
-**🧾 Credits & Attributions**
+<p align="center"> <img width="307" height="402" alt="Speech AAC" src="https://github.com/user-attachments/assets/8310a177-2cfe-411a-8bda-ae76bc2a562d" /> </p>
+
+
+
+# Application Description
 
 This project aims to develop an AAC (Augmentative and Alternative Communication) application is designed to assists individuals with speech or communication difficulties in expressing themselves effectively through categorized icons, text, and voice output
 
 It supports both **Bahasa Malaysia and English**, allowing users to switch languages instantly. Each category displays words or phrases with clear visuals and optional text-to-speech playback, enabling effective daily communication. 
 
 The app is **designed with open-source art and educational principles**, to promote accessible, inclusive, user-friendly and responsive interface that ensures user comfort. The app also remembers language preferences on each launch, offering a smooth and personalized experience ideal for individuals, caregivers, therapists, and educators supporting communication needs.
+<br><br>
 
-This AAC app can **serve dual purposes** (therapeutic and educational):
+<img width="530" height="485" alt="Speech AAC Google Play Store" src="https://github.com/user-attachments/assets/1759dd1e-19ea-4990-bb0e-2aad98747d43" />
 
-**1. Assistive tool for speech or communication difficulties**  
-- Users who have difficulty speaking or expressing themselves can use icons, text, and voice output to communicate effectively.
+***Google Play Store:***  
+https://play.google.com/store/apps/details?id=com.taufiq.speechaac&pcampaignid=web_share
 
-**2. Educational tool for learning language and sentences**  
-- Schools or teachers can use the app to teach sentence formation, vocabulary, and language structure in a fun, visual way.  
-- Even students without communication difficulties can benefit from visual learning and language practice.
+**Application Purpose**
+This AAC app can serve dual purposes (therapeutic and educational):
+1. Assistive tool for speech or communication difficulties
+•	Users who have difficulty speaking or expressing themselves can use icons, text, and voice output to communicate effectively.
+2. Educational tool for learning language and sentences
+•	Schools or teachers can use the app to teach sentence formation, vocabulary, and language structure in a fun, visual way.
+•	Even students without communication difficulties can benefit from visual learning and language practice.
 
----
 
+
+
+# 🧾 Privacy Policy
+1.	Speech AAC does not collect, store, or share any personal user data.
+2.	The app works fully and does not require user accounts, sign-in, or internet access.
+3.	No personal information, audio recordings, images, or usage data are transmitted to any server.
+4.	Payment are handle securely by Google Play and are subject to Google’s privacy policies.
+   
+
+
+# © Credits & Attributions
 
 To respect and acknowledge the creators and communities behind the open resources that made this possible, the following attributions are provided.
 
@@ -31,22 +50,10 @@ https://openmoji.org/
 
  – The Open-Source Emoji and Icon Project
 OpenMoji is an open-source emoji and icon library developed collaboratively by design students and professionals.
-The project promotes accessible visual communication through freely available, standardised, and high-quality icons.
-
-**Licensed under CC BY-SA 4.0**
-https://creativecommons.org/licenses/by-sa/4.0/
-.
-
-This means icons may be freely used, adapted, and shared, provided that proper credit is given and any derivative work remains under the same licence.
-
-© OpenMoji contributors.
+The project promotes accessible visual communication through freely available, standardised, and high-quality icons. **Licensed under CC BY-SA 4.0** https://creativecommons.org/licenses/by-sa/4.0/. This means icons may be freely used, adapted, and shared, provided that proper credit is given and any derivative work remains under the same licence. © OpenMoji contributors.
 
 **SVG Repo**
 https://www.svgrepo.com/
-
- – Free SVG Icons for Commercial Use
-SVG Repo is a community-driven repository that provides thousands of open-licence vector icons.
-All icons are contributed by independent designers and made available for personal and commercial use at no cost.
 
 Used under SVG Repo’s free commercial-use licence.
 
@@ -75,7 +82,7 @@ Custom colour palettes and composition styles to maintain visual consistency acr
 No proprietary, unlicensed, or restricted materials are used. Every effort has been made to ensure that all visual elements meet open-use and attribution standards.
 
 
-**🧠 Project Note**
+# 🧠 Project Note
 
 This AAC project is part of an ongoing effort to make communication more inclusive, multilingual, and visually intuitive.
 It is intended for integration into mobile applications, especially for educational or assistive technology purposes.
@@ -83,3 +90,9 @@ It is intended for integration into mobile applications, especially for educatio
 By combining open-source visual resources with locally developed content, the project seeks to empower communities to create and share accessible communication tools freely and ethically.
 
 If you reuse or adapt any icons, assets, or documentation from this project, please maintain the same spirit of open sharing by keeping the credits intact.
+
+
+
+
+**Speech AAC © 2026**
+
