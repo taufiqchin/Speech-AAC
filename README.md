@@ -13,9 +13,11 @@ It supports both **Bahasa Malaysia and English**, allowing users to switch langu
 # Expertise & Scientific Foundation
 Speech AAC (Bahasa & English) is not just an app; it is a research-backed tool developed in collaboration with experts from the International Islamic University Malaysia (IIUM).
 
-**Lead Developer & Consultant:** Developed under the technical and academic guidance of **Muhammad Taufiq Bin Mohd Safwan Chin**, a specialist in Human-Computer Interaction and Assistive Technology. Her expertise ensures that the app interface is optimized for users with cognitive and motor challenges.
+**Lead Developer & Consultant:** Developed under the technical and academic guidance of **[Muhammad Taufiq Bin Mohd Safwan Chin](https://www.iium.edu.my/directory/show/TXVSNS9XdkhzSCtYVFZya0J2TC9RQT09)**, a specialist in Human-Computer Interaction and Assistive Technology. Her expertise ensures that the app interface is optimized for users with cognitive and motor challenges.
 
-**Clinical Validation:** Recommended and reviewed by **Nurul Athirah Binti Zakaria**, a professional Speech-Language Pathologist (SLP). Her clinical insights ensure that the picture-to-sentence logic aligns with real-world speech therapy standards for Aphasia and Autism recovery.
+**Clinical Validation:** Recommended and reviewed by **[Nurul Athirah Binti Zakaria](https://www.iium.edu.my/directory/show/UlNUbThWbCt6cGdFUVRweENrV3VGQT09)**, a professional Speech-Language Pathologist (SLP). Her clinical insights ensure that the picture-to-sentence logic aligns with real-world speech therapy standards for Aphasia and Autism recovery.
+
+
 
 # 1. A Lifeline for Speech Support
 For individuals with communication challenges, SpeechAAC is a vital bridge to the world. It is designed to support:
