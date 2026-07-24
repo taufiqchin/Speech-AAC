@@ -15,7 +15,7 @@ Designed specifically for the Malaysian community, Speech AAC works completely o
 # 👥 Perfect For
 
 <p align="center">
-<img src="YOUR_PERFECT_FOR_INFOGRAPHIC.png" width="100%">
+<img src="perfect for.png" width="100%">
 </p>
 
 Speech AAC is suitable for:
@@ -36,7 +36,7 @@ Speech AAC is suitable for:
 # ⭐ Key Features
 
 <p align="center">
-<img src="YOUR_KEY_FEATURE_INFOGRAPHIC.png" width="100%">
+<img src="key features.png" width="100%">
 </p>
 
 - ✓ Works completely offline
@@ -102,10 +102,6 @@ Also suitable for children learning language by helping them:
 ---
 
 # Google Play
-
-<p align="center">
-<img width="530" height="485" alt="Speech AAC Google Play Store" src="https://github.com/user-attachments/assets/1759dd1e-19ea-4990-bb0e-2aad98747d43" />
-</p>
 
 **Download**
 
