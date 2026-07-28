@@ -139,6 +139,8 @@ https://www.svgrepo.com/
 
 Icons used under SVG Repo's commercial-use licence.
 
+Some character illustrations are adapted from open-source artwork available through SVG Repo. The original assets have been modified, recoloured, and redrawn to create new AAC-specific gestures and actions for this application. Original authors retain copyright to their respective works where applicable.
+
 ### 🤖 Google Gemini
 
 Selected verb icons were created and refined using Google's Generative AI tools under permitted commercial-use terms.
