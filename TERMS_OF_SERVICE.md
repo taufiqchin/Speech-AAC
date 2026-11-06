@@ -48,4 +48,3 @@ These terms are governed by the **laws of Malaysia**, except where mandatory con
 
 ---
 
-*This is a plain-language summary for users. It is not legal advice. You may have a lawyer review it for your situation.*
